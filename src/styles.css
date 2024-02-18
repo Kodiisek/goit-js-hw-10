@@ -1,0 +1,26 @@
+.breed-select {
+    width: 25%;
+    height: auto;
+}
+.cat-info img {
+    display: flex;
+    max-width: 50%;
+    height: auto;
+}
+
+.cat-info p {
+    display: flex;
+    max-width: 50%;
+    height: auto;
+    padding: 4px;
+    flex-direction: column;
+    margin: 10px;
+}
+
+.cat-info {
+    display: flex;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
